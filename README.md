@@ -1,6 +1,8 @@
-# ARTI 303 — Programming for AI
+# ARTI 303 — Programming for AI Rana Alasmari
 **IAU | College of Computer Science and Information Technology**
-
+**Student name: Rana Alasmari** 
+**Student ID:2250004709** 
+**Section:AI01** 
 **Computer Engineering Department**
 
 Lab material for ARTI 303. Each folder contains a `README.md` and a notebook for students.
